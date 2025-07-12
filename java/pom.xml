@@ -31,16 +31,16 @@
 
         <spring.boot.version>2.5.13</spring.boot.version>
         <spring.oauth2.jwt.version>1.1.1.RELEASE</spring.oauth2.jwt.version>
-        <spring-security-oauth2.version>2.5.0.RELEASE</spring-security-oauth2.version>
+        <spring-security-oauth2.version>2.5.2.RELEASE</spring-security-oauth2.version>
         <spring-cloud.version>2020.0.5</spring-cloud.version>
 
         <mapstruct.version>1.5.2.Final</mapstruct.version>
         <lombok.version>1.18.20</lombok.version>
-        <swagger.version>2.9.2</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <io.jsonwebtoken.version>0.11.2</io.jsonwebtoken.version>
         <feign-form.version>3.8.0</feign-form.version>
         <feign-core.version>11.8</feign-core.version>
-        <commons-lang3.version>3.12.0</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <ehcache.version>2.7.2</ehcache.version>
         <javax-cache.version>1.1.1</javax-cache.version>
         <logstash-logback-encoder.version>7.2</logstash-logback-encoder.version>
